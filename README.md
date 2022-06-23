@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Frank Silva 🙋‍♂️
 
 ![FrankSilva01 GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankSilva01&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSilva01)](https://github.com/FrankSilva01/github-readme-stats)
+
 ### Tecnologias que uso no meu dia a dia
 
 <div style="display: inline"><br/>
@@ -18,7 +18,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div> </br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSilva01)](https://github.com/FrankSilva01/github-readme-stats)
 
 ### Contato
 
