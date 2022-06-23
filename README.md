@@ -1,3 +1,4 @@
+<div style="display: inline align-text:center" >
 ### Olá! Eu sou o Frank Silva 🙋‍♂️
 
 ![FrankSilva01 GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankSilva01&show_icons=true&theme=merko)
