@@ -1,4 +1,4 @@
-<div style="display: inline align-text:center" >
+<div style="display: inline" "align-text:center" >
 ### Olá! Eu sou o Frank Silva 🙋‍♂️
 
 ![FrankSilva01 GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankSilva01&show_icons=true&theme=merko)
@@ -25,3 +25,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-silva-a2ab7519b/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) frankalves333@gmail.com
+</div>
