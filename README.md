@@ -27,4 +27,4 @@ Por aqui você pode acompanhar alguns projetos que desenvolvi a fim de estudo e 
 ### Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-silva-a2ab7519b/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) frankalves333@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](frankalves333@gmail.com)
