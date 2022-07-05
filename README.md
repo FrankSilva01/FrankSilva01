@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Frank Silva 🙋‍♂️
 Estudante de Análise e desenvolvimento de sistemas pela universidade Descomplica, cursando o 1 semestre e atualmente estudando tecnologias front end.
 
+Por aqui você pode acompanhar alguns projetos que desenvolvi a fim de estudo e para colocar em prática os conhecimentos adquiridos até o momento.
+
 ![FrankSilva01 GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankSilva01&show_icons=true&theme=merko)
 
 ### Tecnologias que uso no meu dia a dia
